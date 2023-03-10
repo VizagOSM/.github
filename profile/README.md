@@ -7,3 +7,5 @@ We welcome all individuals who share our passion for open source and want to con
 We plan to host meetups, hackathons, and workshops to share knowledge and collaborate on projects. We believe that open source is not just about code, but also about building a community of like-minded individuals who can learn from each other and work towards common goals.
 
 We invite you to join us and be a part of this vibrant community of open source enthusiasts. Let's work together to make Vizag a hub of open source innovation!
+
+Join our community: https://www.linen.dev/s/vizagosm
